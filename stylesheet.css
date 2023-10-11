@@ -33,15 +33,7 @@ main {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-a {
-    text-decoration: none; /* Remove underline by default */
-    color: #000000; /* Set the default text color */
-}
 
-/* Define the hover state for links */
-a:hover {
-    color: #ff0019; /* Change the text color to blue when hovering */
-}
 
 .profile img {
     width: 10px;
