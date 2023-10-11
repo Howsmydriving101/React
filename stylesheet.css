@@ -56,9 +56,23 @@ a:hover {
     font-size: 24px;
 }
 
+.profile h3 {
+    font-size: 20px;
+}
+
 .profile p {
     font-size: 16px;
     line-height: 1.6;
+}
+
+.profile ul {
+    list-style: none;
+    padding: 0;
+}
+
+.profile ul li {
+    display: inline-block;
+    margin: 0 10px;
 }
 
 
